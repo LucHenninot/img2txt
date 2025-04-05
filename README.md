@@ -16,15 +16,15 @@
 
 # 🖥️ Usage
 ## Install from this site
-1. Download from the `dist` directory:
-   - [img2txt.exe](dist/img2txt.exe)
-   - [config.ini](dist/config.ini) *(optional, the program will create it if needed)*
+1. Download from the the latest [Release](releases/):
+   - [img2txt.exe](releases/img2txt.exe)
+   - [config.ini](releases/config.ini) *(optional, the program will create it if needed)*
 2. Place all files in the same directory
 k
 ## GUI Mode
 1. Launch `img2txt.exe` in administrator mode or not (see below [^1])
-1. Copy an image to clipboard (Snipping Tool/Print Screen)
-2. Either:
+2. Copy an image to clipboard (Snipping Tool/Print Screen)
+3. Either:
    - Click `Convert Image to Text` button
    - Press configured hotkey (default: `Ctrl+Alt+V`)
 v*note*
