@@ -16,9 +16,9 @@
 
 # 🖥️ Usage
 ## Install from this site
-1. Download from the the latest [Release](releases/):
-   - [img2txt.exe](releases/img2txt.exe)
-   - [config.ini](releases/config.ini) *(optional, the program will create it if needed)*
+1. Download from the the latest [Release](/releases/latest/download/):
+   - [img2txt.exe](/releases/latest/download/img2txt.exe)
+   - [config.ini](/releases/latest/download/config.ini) *(optional, the program will create it if needed)*
 2. Place all files in the same directory
 k
 ## GUI Mode
