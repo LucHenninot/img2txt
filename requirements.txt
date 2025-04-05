@@ -1,0 +1,14 @@
+altgraph
+packaging
+pefile
+pillow
+pyinstaller
+pyinstaller-hooks-contrib
+pyperclip
+pytesseract
+pywin32-ctypes
+setuptools
+numpy
+opencv-python
+keyboard
+configparser
